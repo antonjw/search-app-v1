@@ -7,9 +7,7 @@ A simple ReactJS Search application. Created With:
       * Bootstrap 3
       * JSON
 
-![screenshot-01](
-
-![screenshot-02](
+![search-app-v1](https://user-images.githubusercontent.com/1144314/40162372-d306792e-5981-11e8-9979-fc5016f3686a.png)
 
 How to deploy:
 Go to the root directory:
